@@ -611,6 +611,7 @@
 	<action uniqueid="9192" script="quests/orcedron.lua" />
 	<action uniqueid="1912" script="quests/desertdungeonquest.lua" />
 	<action uniqueid="50023" script="quests/triangletowerlever.lua" />
+	<action actionid="50258" script="quests/bkquest.lua"/>
 	<action fromaid="50023" toaid="50024" script="quests/thaislighthouselever.lua" />
 	<action actionid="50027" script="quests/hellgatelever.lua" />
 	<action actionid="50129" script="quests/liferinglever.lua" />
