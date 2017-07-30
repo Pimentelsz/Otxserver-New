@@ -3,7 +3,7 @@ function onSay(player, words, param)
 	local players = Game.getPlayers()
 	local playerCount = Game.getPlayerCount()--+69 -- spoofing
 
-	player:sendTextMessage(MESSAGE_INFO_DESCR, playerCount .. " players online.")
+	player:sendTextMessage(MESSAGE_EVENT_ADVANCE, playerCount .. " players online.")
 
 	--local i = 0
 --	local msg = ""
