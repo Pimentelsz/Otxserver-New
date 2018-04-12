@@ -11,4 +11,4 @@ Issues/Problemas não deve ser utilizado como forma de suporte para a utilizaç�
 # Contato:
 Facebook: www.facebook.com/erick.nunes.75
 Skype: e_nunes@live.com
-Whatsapp: +5493412804526
+Whatsapp: +5493412163786
